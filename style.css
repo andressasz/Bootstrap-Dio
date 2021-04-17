@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital@0;1&family=Roboto+Mono:ital,wght@1,200&display=swap');
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #83ec9d;
+    font-family: 'Playfair Display SC', serif;
+}
+
+h3{
+    font-family: 'Playfair Display SC', serif;
+}
+
+.nav-link {
+    font: black;
+}
+
+
+.quem-somos {
+    background-color: #1fbd2c;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.logo {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.parceiros {
+    background-color: rgb(70, 224, 117);
+}
+
+.bg-footer {
+    background-color: rgb(255, 255, 255);
+}
+
+
